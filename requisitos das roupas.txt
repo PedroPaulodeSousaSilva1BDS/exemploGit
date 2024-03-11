@@ -1,0 +1,51 @@
+Levantamento de Requisitos
+
+
+
+FUNCIONAL
+-Filtrar coleções de roupas
+-Mostrar produtos em estoque e se está disponível ou não
+-Classificar preço das peças de roupas
+-Cadastrar clientes
+-Verificar as informações de cadastro
+-Criar aba  visando a mostra da sustentabilidade que a empresa oferece:
+
+
+
+
+NÃO FUNCIONAIS:
+-Segurança com o processo de compra
+-acessibilidade do sistema acessivel a todos
+-Desempenho do website
+-Interface do site sustentável
+-Responsividade em todos os aparelhos
+-Chat com cliente
+
+
+
+
+REGRAS DE NEGÓCIO:
+-Destacar as materias primas visando a mostra da sustentabilida que a empresa oferece
+-Classificação por categoria
+-Informações tranparentes sobra o impacto ambiental
+
+
+
+Registros:
+-Filtrar coleções de roupas:As coleções de roupas do cliente vão ser filtradas conforme as opções desejadas pelo comprador
+-Mostrar produtos em estoque e se está disponível ou não:O sistema mostrará os produtos que estarão no estoque e se o produto está disponivel ou não
+-Classificar peças de roupas por preço:As peças roupas serão classificadas por preço,mostrando o valor do prduto e classificando elas conforme o preço da roupa em que o cliente tem interesse
+-Cadastrar clientes:Cadastrar os clientes para que seja feita as compras e o acesso ao site
+-Verificar as informações de cadastro:A verificação das informações dos cadastros feitos para que não haja dados com fralde.
+
+NÃO FUNCIONAIS:
+-Segurança com o processo de compra:A segurança com os dados dos clientes na hora da compra,solicitando cadastro e verificar pagamentos.
+-acessibilidade do sistema acessivel a todos:A acessibilidade do sistema para que todos os publicos consigam acessar o programa.
+-Desempenho do website:O desempenho do site seja de qualidade para que não ocorra problemas durante a  operação do website.
+-Interface do site sustentável:Interface que interaja corretamente com o cliente
+-Responsividade em todos os aparelhos:A responsividade irá possibilitar  acessar o site em qualquer aparelho e o programa se enquadrando conforme as caracteristicas dos dispositivos
+-Chat com cliente:O chat com os clientes irão fazer com que a comunicação com as duas partes seja efetiva
+
+REGRAS DE NEGÓCIO:
+-Forma de pagamentos :Disponibilizar formas de pagamentos seguras.
+
